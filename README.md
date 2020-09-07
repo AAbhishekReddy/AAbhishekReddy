@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻
 
+- 🔭 I’m currently working on a script to automatically collect covid stats and update the graphs.
+- 🌱 I’m currently deep diving into ML and AI.
 <!--
 **AAbhishekReddy/AAbhishekReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=AAbhishekReddy&show_icons=true">
