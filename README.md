@@ -1,3 +1,4 @@
+![banner](/git_banner.png)
 ### Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻
 
 - 🔭 I’m currently working on a script to automatically collect covid stats and update the graphs.
@@ -16,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=AAbhishekReddy&show_icons=true">
+<img src = "https://github-readme-stats.vercel.app/api?username=AAbhishekReddy&show_icons=true&theme=algolia">
