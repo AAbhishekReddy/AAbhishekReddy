@@ -4,7 +4,7 @@
 <h1 align="center"> Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻</h1>
 
 <p align="center">
-- 🔭 I’m currently on python skills for Data Science.
+- 🔭 I’m currently working on python skillset for Data Science.
 </p>
 <p align="center">
 - 🌱 I’m currently deep diving into ML and AI.
