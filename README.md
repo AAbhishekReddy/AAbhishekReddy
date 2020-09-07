@@ -1,4 +1,5 @@
-![banner](/git_banner.png)
+<!-- ![banner](/git_banner.png) -->
+<img src="https://raw.githubusercontent.com/AAbhishekReddy/AAbhishekReddy/master/git_banner.png">
 ### Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻
 
 - 🔭 I’m currently working on a script to automatically collect covid stats and update the graphs.
