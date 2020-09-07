@@ -1,21 +1,13 @@
 <!-- ![banner](/git_banner.png) -->
 <img src="https://raw.githubusercontent.com/AAbhishekReddy/AAbhishekReddy/master/git_banner.png">
-### Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻
 
-- 🔭 I’m currently working on a script to automatically collect covid stats and update the graphs.
+<h1 align="center"> Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻</h1>
+
+<p align="center">
+- 🔭 I’m currently on python skills for Data Science.
+</p>
+<p align="center">
 - 🌱 I’m currently deep diving into ML and AI.
-<!--
-**AAbhishekReddy/AAbhishekReddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src = "https://github-readme-stats.vercel.app/api?username=AAbhishekReddy&show_icons=true&theme=algolia">
+<p align="center"> <img align="center" src = "https://github-readme-stats.vercel.app/api?username=AAbhishekReddy&show_icons=true&theme=algolia"> </p>
