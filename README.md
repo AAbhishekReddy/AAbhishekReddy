@@ -1,6 +1,6 @@
 <div style="background-color: black;" align = "center">
     <img src="images\bars_top.png">
-    <img src="images\ghost.gif" style="border-radius: 50%;align: center; heigh: 200px; width: 200px;">
+    <img src="images\ghost.gif" style="border-radius: 50%;align: center; heigh: 100px; width: 100px;">
     <img src="images\name.png">
     <img src="images\bars_bottom.png">
 </div>
