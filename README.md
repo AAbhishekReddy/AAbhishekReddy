@@ -4,7 +4,7 @@
     <!-- <img src="images\ezgif.com-gif-maker (1).gif" style="border-radius: 50%;align: center; heigh: 200px; width: 200px;"> -->
     <!-- <img src="images\name.png">
     <img src="images\bars_bottom.png"> -->
-    <img src = 'images\ezgif.com-gif-maker (1).gif'>
+    <img src = 'images\ezgif.com-gif-maker (1).gif' style='width: 800px;'>
 </div>
 
 <h1 align="center"> Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻</h1>
