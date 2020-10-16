@@ -1,10 +1,17 @@
-<!-- ![banner](/git_banner.png) -->
-<img src="https://raw.githubusercontent.com/AAbhishekReddy/AAbhishekReddy/master/git_banner.png">
+<div style="background-color: black;" align = "center">
+    <img src="images\bars_top.png">
+    <img src="images\ghost.gif" style="border-radius: 50%;align: center; heigh: 200px; width: 200px;">
+    <img src="images\name.png">
+    <img src="images\bars_bottom.png">
+</div>
 
 <h1 align="center"> Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻</h1>
 
 <p align="center">
 - 🔭 I’m currently working on python skillset for Data Science.
+</p>
+<p align="center">
+- 😬 Recently created basic data apps using Flask and Django. Please do check.
 </p>
 <p align="center">
 - 🌱 I’m currently deep diving into ML and AI.
