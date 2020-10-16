@@ -1,8 +1,10 @@
-<div style="background-color: black;" align = "center">
-    <img src="images\bars_top.png">
-    <img src="images\ghost.gif" style="border-radius: 50%;align: center; heigh: 200px; width: 200px;">
-    <img src="images\name.png">
-    <img src="images\bars_bottom.png">
+<!-- <div style="background-color: black;" align = "center"> -->
+<div align='center'>
+    <!-- <img src="images\bars_top.png"> -->
+    <!-- <img src="images\ezgif.com-gif-maker (1).gif" style="border-radius: 50%;align: center; heigh: 200px; width: 200px;"> -->
+    <!-- <img src="images\name.png">
+    <img src="images\bars_bottom.png"> -->
+    <img src = 'images\ezgif.com-gif-maker (1).gif'>
 </div>
 
 <h1 align="center"> Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻</h1>
