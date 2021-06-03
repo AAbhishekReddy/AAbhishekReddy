@@ -6,6 +6,10 @@
 <h1 align="center"> Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻</h1>
 
 <p align="center">
+- 😷 Checkout a python solution to checkout vaccine availability in the repo [covid-sync] (https://github.com/AAbhishekReddy/covid-sync)
+</p>
+
+<p align="center">
 - 🔭 I’m currently working on python skillset for Data Science.
 </p>
 <p align="center">
