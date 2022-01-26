@@ -1,12 +1,12 @@
 <!-- <div style="background-color: black;" align = "center"> -->
 <div align='center'>
-    <img src = 'https://raw.githubusercontent.com/AAbhishekReddy/AAbhishekReddy/master/images/ezgif.com-gif-maker%20(1).gif' style='width: 1000px;'>
+    <img src = 'https://raw.githubusercontent.com/AAbhishekReddy/AAbhishekReddy/master/git-banner-uber.png' style='width: 1000px;'>
 </div>
 
 <h1 align="center"> Hi there 👋, This is Abhishek Reddy A.K.A GHOST 👻</h1>
 
 <p align="center">
-- 😷 Checkout a python solution to checkout vaccine availability in the repo [covid-sync] (https://github.com/AAbhishekReddy/covid-sync)
+- 😷 Checkout a python solution to checkout vaccine availability in the repo <a href="https://github.com/AAbhishekReddy/covid-sync"> covid-sync </a>.
 </p>
 
 <p align="center">
